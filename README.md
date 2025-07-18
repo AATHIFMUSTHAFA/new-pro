@@ -1,0 +1,2 @@
+# new-pro
+studying notes
